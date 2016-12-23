@@ -31,7 +31,7 @@
         "title": "",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<!-- float facebook like box start -->\n<script id=\"float_fb\" src=\"//pic.sopili.net/pub/float_fb/widget.js\" data-href=\"https://www.facebook.com/dreampifdesign\" async></script>\n<!-- float facebook like box end -->",
         "html_before": ""
       },
       "components": [
